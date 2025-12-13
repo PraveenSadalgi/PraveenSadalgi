@@ -1,13 +1,13 @@
 # 💫 About Me:
       I am a Student with Expertise across WebTechnologies(AI, Atutomation, React, NextJS, TypeScript, NodeJS, Express, MongoDB,
       SupaBase, Fireabase etc)
-      👯 I can Collaborate with TechBased Startups and business who want to take their Sales Online. 
+       I can Collaborate with TechBased Startups and business who want to take their Sales Online. 
       
-      🤝 Tech is a Constant learning process, always open for new ideas and Suggestions.
+       Tech is a Constant learning process, always open for new ideas and Suggestions.
       
-      🌱 I’m currently learning Mobile technology and Machine learning. 
+       I’m currently learning Mobile technology and Machine learning. 
       
-      💬 Ask me about Architecture Design, Web technologies its frameworks etc
+       Ask me about Architecture Design, Web technologies its frameworks etc
       
       ⚡ Fun fact : 2Years Back i never knew i going to love this field this much
 
