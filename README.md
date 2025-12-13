@@ -1,5 +1,9 @@
 # 💫 About Me:
-      I am a Freelancer<br>👯 I can Collaborate with TechBased Startups and business who want to take their Sales Online. <br>🤝 Tech is a Constant learning process, always open for new ideas and Suggestions. <br>🌱 I’m currently learning Mobile technology and Machine learning. <br>💬 Ask me about Architecture Design, Web technologies its frameworks etc<br>⚡ Fun fact : 2Years Back i never knew i going to love this field this much
+      I am a Freelancer
+      👯 I can Collaborate with TechBased Startups and business who want to take their Sales Online. 
+      <br>🤝 Tech is a Constant learning process, always open for new ideas and Suggestions.
+      <br>🌱 I’m currently learning Mobile technology and Machine learning. 
+      <br>💬 Ask me about Architecture Design, Web technologies its frameworks etc<br>⚡ Fun fact : 2Years Back i never knew i going to love this field this much
 
 
 ## 🌐 Socials:
