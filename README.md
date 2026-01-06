@@ -1,6 +1,6 @@
 # 💫 About Me:
-      I am a Student Developer with Expertise across WebTechnologies(AI, Atutomation, React, NextJS, TypeScript, NodeJS,
-      Express, MongoDB,SupaBase, Fireabase etc)
+      I am a Student Developer with Expertise across WebTechnologies(AI, Atutomation, React, NextJS, TypeScript, NodeJS,Express,
+      MongoDB,SupaBase, Fireabase etc)
        I can Collaborate with TechBased Startups and business who want to take their Sales Online. 
       
        Tech is a Constant learning process, always open for new ideas and Suggestions.
